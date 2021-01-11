@@ -22,5 +22,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 You can find in dist/ folder a compiled versión to use directly in a server.
 
-## MIT Licence
+
+
+·MIT License
 
